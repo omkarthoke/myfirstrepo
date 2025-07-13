@@ -2,3 +2,8 @@ this is my first comment
 
   git config --global user.email "omkarthoke111@gamil.com"
   git config --global user.name "omkarthoke"
+
+
+
+  git status
+  
